@@ -1,6 +1,6 @@
 # pi profile: pi-starter
 
-A shareable config profile for the [pi coding agent](https://pi.dev), installed with the
+A shareable config profile for the [pi coding agent](https://github.com/earendil-works/pi), installed with the
 pi-profile wrapper: https://github.com/YOUR_USER/pi-profiles
 
 ## Install
