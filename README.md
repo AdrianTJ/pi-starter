@@ -14,7 +14,7 @@ nothing here is vendored.
 
 ## Notes
 
-- `DESCRIPTION.md` ships with the pack, so `pi-profile list` shows a real summary instead of the `no description yet` placeholder. Edit it to match what you keep.
+- `DESCRIPTION.md` ships with the pack, so `pi-profile list` shows a real summary instead of a generic placeholder. Edit it to match what you keep.
 - Credentials (auth.json, models-store.json) are deliberately not included;
   they are symlinked from your global config at install time.
 - Extension entries in settings.json pointing at absolute local paths won't
